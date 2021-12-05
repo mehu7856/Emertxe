@@ -1,4 +1,4 @@
-/********************************************************************************************
+/********************************************************************************************************************************************************
 *   Name : MAHABOOB BASHA. S.R
 *   Date : 05-12-2021
 *   Description : islower() - checks for a lower case alphabet whether entered character is between 'a' to 'z'.
@@ -6,7 +6,7 @@
                     Enter the character: a
 *   Sampl output :
                     Entered character is lower case alphabet
-*/
+**********************************************************************************************************************************************************/
 #include<stdio.h>
 int is_lower(int character );
 int main()
