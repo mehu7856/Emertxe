@@ -1,3 +1,1 @@
-# Emertxe (Embedded System)
----> C-programms
----> Linux
+--> C-program and Linux
