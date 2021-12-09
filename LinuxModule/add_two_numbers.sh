@@ -1,15 +1,9 @@
 << COMMENT
-
 Name : Mahaboob basha S.R
-
 Date : 15-10-2021
-
 Description :  script for addition of two numbers for real numbers also
-
 Sample input : 10 20
-
 Sample output : 30
-
 COMMENT
 
 #!/bin/bash
