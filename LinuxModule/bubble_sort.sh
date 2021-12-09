@@ -1,7 +1,7 @@
 <<COMMENT
 Name: Mahaboob basha S.R
 Date:21/10/2021
-Description: Sorting ascending order and descending order
+Description: script to sort a given number in ascending or descending order
 Sample input:45321
 Sample output:12345
 COMMENT
