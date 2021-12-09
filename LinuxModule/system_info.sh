@@ -5,7 +5,6 @@ Description: script to print system information using commands
 Sample input:1
 Sample output: show logged user
 COMMENT
-
 #!/bin/bash
 
 echo "1.Current logged user
