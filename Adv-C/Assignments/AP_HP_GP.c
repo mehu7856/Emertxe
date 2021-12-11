@@ -1,16 +1,16 @@
-/*
+/***********************************************************************************
 	Name: Mahaboob basha S.R 
 	Date: 24-11-21
 	Description: AP = In mathematics, an arithmetic progression (AP) or arithmetic sequence is a sequence of numbers such that the difference 
 	                  between the consecutive terms is constant.
 	             GP = mathematics, a geometric progression, also known as a geometric sequence, is a sequence of numbers where each term after 
-				      the first is found by multiplying the previous one by a fixed, non-zero number called the common ratio.
-				 HP = In mathematics, a harmonic progression (or harmonic sequence) is a progression formed by taking the reciprocals of an arithmetic progression.
-    Sample input : 2 3  5
-    Sample output:  A.P = 2 5 8 11 14
-                    G.P = 2 6 18 54 162
-                    H.P = 0.058824 0.200000 0.125000 0.090909 0.071429
-*/
+		          the first is found by multiplying the previous one by a fixed, non-zero number called the common ratio.
+		     HP = In mathematics, a harmonic progression (or harmonic sequence) is a progression formed by taking the reciprocals of an arithmetic progression.
+        Sample input : 2 3  5
+        Sample output:  A.P = 2 5 8 11 14
+                        G.P = 2 6 18 54 162
+                        H.P = 0.058824 0.200000 0.125000 0.090909 0.071429
+***********************************************************************************/
 #include<stdio.h>
 int main()
 {
